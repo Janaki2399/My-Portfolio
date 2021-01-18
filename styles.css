@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Satisfy&display=swap');
+body
+{
+    margin:0px;
+    font-family:"Nanum Gothic";
+}
+.navigation-container{
+    background-color:#9D174D;
+    padding:1rem;
+}
+.nav-list{
+    color:blue;
+    display: inline;
+    padding:1rem;
+    text-align:right;
+}
+.nav-ul{
+    text-align: right;
+}
+.nav-list .link
+{
+    color:white;
+    text-decoration:none;
+    font-size:1.3rem;
+}
+.img{
+    padding:0.5rem;
+}
+
+.header-name{
+    text-align:center;
+    font-size:2.5rem;
+    color:#9D174D;
+    padding:3rem;
+    padding-top:5rem;
+    padding-bottom:2rem;
+    font-family: Satisfy;
+  
+    
+}
+.header-line{
+    text-align:center;
+    font-size:3rem;
+    color:#9D174D;
+    padding-top:0rem;
+    font-family: Satisfy;
+}
+.header-img{
+    width:30rem;
+    max-width: 80%;
+}
+.header-img2{
+    display:block;
+    max-width:80%;
+    width:35rem;
+    margin:auto;
+}
+.header-name2{
+    text-align:center;
+    color:#9D174D;
+    margin-top:3rem;
+}
+footer{
+    background-color:#9D174D;
+    padding:5rem;
+    text-align:center;
+    color:white;
+    padding:4rem 1rem;
+}
+
+.footer-list{
+    display:inline;
+}
+.footer-link
+{
+    text-decoration:none;
+    color:white;
+    padding:1rem;
+}
+footer a:hover{
+    color:wheat;
+}
+.footer-heading{
+    font-size:large;
+    font-weight: bold;
+    padding-left:1.7rem;
+}
+.tech
+{
+    text-align:center;
+    padding:1rem;
+    margin:2rem 15rem;
+}
+.projects{
+    text-align:center;
+    padding:1rem;
+    margin:2rem 15rem;
+   
+}
+.blogs
+{
+    text-align:center;
+    padding:1rem;
+    margin:2rem 15rem;
+}
+.primary-link
+{
+    background-color:#9D174D ;
+    color:white;
+    padding:0.5rem;
+    border:0.5rem solid ;
+    text-decoration:none;
+}
+.section-heading{
+    color:#9D174D;
+    font-family: Satisfy;
+    font-size:2rem;
+}
+.project-list
+{
+    text-align:center;
+    padding:1rem;
+    margin:2rem 15rem;
+    border:0.2rem outset;
+    background-color: #FECACA;
+}
+.project-heading
+{
+    color:#9D174D;
+    
+}
+.project-description{
+    font-size:1.5rem;  
+}
+ul{
+    list-style-type: none;
+}
+.blog-list
+{
+    text-align:center;
+    padding:1rem;
+    margin:2rem 15rem;
+    border:0.2rem outset;
+    background-color: #FECACA;
+}
+.blog-description{
+    text-align: center;
+    font-size:1.5rem;  
+}
+}
+.blog-heading
+{
+    color:#9D174D;
+}
+.parent-div{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    background-color: #FECACA;
+    margin:0px;
+}
+.category-div{
+    display: flex;
+    flex-direction: row;
+    background-color: #FECACA;
+}
+.category-desc{
+    margin:4rem;
+}
+.section-heading{
+    font-size: 2rem;
+}
+.description{
+    font-size:1.5rem;
+}
+.img-padding{
+    padding-right:2rem;
+}
