@@ -178,6 +178,7 @@ ul{
 .parent-div{
     display:flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content:space-evenly;
     background-color: #FECACA;
     margin:0px;
